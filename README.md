@@ -1,2 +1,2 @@
 # Image_Processing_Project
-Matlab
+A desktop application project oriented to digital image processing practice.
